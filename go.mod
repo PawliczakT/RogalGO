@@ -1,3 +1,3 @@
-module github.com/tomasz.pawliczak/rogalgo/backend
+module github.com/tomasz.pawliczak/rogalgo
 
 go 1.22.1

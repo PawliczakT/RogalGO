@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/yourusername/yourappname/models"
+	"github.com/PawliczakT/RogalGO/models"
 	"go.mongodb.org/mongo-driver/mongo"
 )
 
